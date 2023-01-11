@@ -26,7 +26,7 @@ I really enjoy folllowing along to Clint. His pace and his explanations are clea
 
 https://www.youtube.com/watch?v=uy1tgKOnPB0&t=1486s
 
-### Screenshot of Project
+### GIF of Project
 
-![Webpage screenshot](./screenshot.png)
-![Webpage screenshot](./screenshot1.png)
+![Webpage screenshot](./Untitled_%20Jan%2011%2C%202023%2012_53%20PM.gif)
+
